@@ -1,0 +1,23 @@
+order_id,order_date,order_status,customer_name,city,product_name,category,price,quantity,line_revenue,payment_mode
+1,2025-02-01,Delivered,Amit Sharma,Delhi,Python Hoodie,Clothing,1999.0,1,1999.0,UPI
+1,2025-02-01,Delivered,Amit Sharma,Delhi,Sticker Pack,Stationery,249.0,2,498.0,UPI
+2,2025-02-02,Delivered,Neha Verma,Mumbai,Debugging Mug,Accessories,599.0,1,599.0,Credit Card
+2,2025-02-02,Delivered,Neha Verma,Mumbai,DSA Notebook,Stationery,499.0,1,499.0,Credit Card
+3,2025-02-03,Delivered,Rahul Khan,Bangalore,Algorithm T-Shirt,Clothing,1499.0,1,1499.0,UPI
+4,2025-02-04,Cancelled,Pooja Nair,Chennai,Java Hoodie,Clothing,1899.0,1,1899.0,Not Paid
+5,2025-02-05,Delivered,Rohit Gupta,Delhi,SQL Cheat Sheet,Stationery,299.0,3,897.0,Debit Card
+6,2025-02-06,Pending,Ananya Roy,Kolkata,Code Like a Pro Mug,Accessories,649.0,1,649.0,Not Paid
+7,2025-02-07,Delivered,Karan Mehta,Ahmedabad,Keyboard Mat,Accessories,999.0,1,999.0,UPI
+8,2025-02-08,Delivered,Simran Kaur,Chandigarh,AI Nerd T-Shirt,Clothing,1599.0,2,3198.0,Credit Card
+9,2025-02-09,Delivered,Mohit Jain,Jaipur,Terminal Stickers,Stationery,199.0,3,597.0,UPI
+10,2025-02-10,Cancelled,Sneha Patel,Surat,GitHub Cap,Accessories,799.0,1,799.0,Not Paid
+11,2025-02-11,Delivered,Vikram Singh,Lucknow,Linux Hoodie,Clothing,2099.0,1,2099.0,UPI
+12,2025-02-12,Delivered,Alok Mishra,Patna,Whiteboard Notebook,Stationery,699.0,1,699.0,Debit Card
+13,2025-02-13,Pending,Nidhi Agarwal,Noida,Bug Hunter Mug,Accessories,549.0,2,1098.0,Not Paid
+14,2025-02-14,Delivered,Saurabh Verma,Ghaziabad,Coder Bottle,Accessories,899.0,1,899.0,UPI
+15,2025-02-15,Delivered,Riya Sen,Pune,Late Night Hoodie,Clothing,2199.0,1,2199.0,Credit Card
+16,2025-02-16,Delivered,Aditya Malhotra,Delhi,Python Socks,Accessories,399.0,2,798.0,UPI
+17,2025-02-17,Cancelled,Kritika Shah,Mumbai,DSA Flash Cards,Stationery,349.0,1,349.0,Not Paid
+18,2025-02-18,Delivered,Yash Tiwari,Kanpur,Clean Code Notebook,Stationery,599.0,1,599.0,Debit Card
+19,2025-02-19,Delivered,Mehul Joshi,Vadodara,Python Hoodie,Clothing,1999.0,1,1999.0,UPI
+20,2025-02-20,Delivered,Isha Kapoor,Gurgaon,DSA Notebook,Stationery,499.0,2,998.0,Credit Card
