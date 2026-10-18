@@ -3,8 +3,6 @@
 An end-to-end analytics project for a small online store that sells coder merchandise (hoodies, mugs, notebooks, stickers).
 I designed the database in **MySQL**, wrote the analysis queries, found and fixed a data error, and built an interactive **Tableau** dashboard.
 
-**Live dashboard:** [View on Tableau Public](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
-
 ![JesalShop Tableau Dashboard](dashboard.jpg)
 
 ---
